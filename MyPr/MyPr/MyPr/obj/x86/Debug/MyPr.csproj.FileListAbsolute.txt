@@ -1,0 +1,10 @@
+D:\mypr\MyPr\MyPr\MyPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mypr\MyPr\MyPr\MyPr\obj\x86\Debug\MyPr.Properties.Resources.resources
+D:\mypr\MyPr\MyPr\MyPr\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mypr\MyPr\MyPr\MyPr\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mypr\MyPr\MyPr\MyPr\bin\Debug\MyPr.exe
+D:\mypr\MyPr\MyPr\MyPr\bin\Debug\MyPr.pdb
+D:\mypr\MyPr\MyPr\MyPr\bin\Debug\nunit.framework.dll
+D:\mypr\MyPr\MyPr\MyPr\bin\Debug\nunit.framework.xml
+D:\mypr\MyPr\MyPr\MyPr\obj\x86\Debug\MyPr.exe
+D:\mypr\MyPr\MyPr\MyPr\obj\x86\Debug\MyPr.pdb
