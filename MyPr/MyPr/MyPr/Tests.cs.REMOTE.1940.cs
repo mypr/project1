@@ -9,7 +9,6 @@ namespace MyPr{
         [Test]
         public static void FirstTest(){
             Assert.IsTrue(true);
-            Assert.Null(null);
         }
     }
 }
